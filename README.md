@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! <br>I’m currently working on .NET Core, Java, and C# programming, focusing on developing robust applications and enhancing my skills in these areas. I’m eager to collaborate on projects related to database management and web API creation. Currently, I’m deepening my knowledge in web API development with Spring Boot, database interactions with PostgreSQL, and crafting Windows Forms applications.
+Hi! <br>I’m currently working on Java, Spring Boot projects, focusing on developing robust applications and enhancing my skills in these areas. I’m eager to collaborate on projects related to database management and web API creation. Currently, I’m deepening my knowledge in web API development with Spring Boot, database interactions with PostgreSQL, and crafting Windows Forms applications.
 
 
 ## 🌐 Socials:
